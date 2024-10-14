@@ -33,9 +33,12 @@ Here are a few of the projects I’m working on:
 
 ## 🌱 How to Reach Me
 
-- **Email**: kadamswapnil4259@gmail.com 
+- **Email**: [Email](kadamswapnil4259@gmail.com )
 - **LinkedIn**: [Swapnil LinkedIn Profile](https://www.linkedin.com/in/swapnil-kadam-a829472a4/)
 
 ---
 
 Thanks for visiting my profile! Feel free to check out my repositories and connect with me if you'd like to collaborate!
+
+![Profile Visits](https://hits.dwyl.com/swapnilKadam-10/swapnilKadam-10.svg)
+
