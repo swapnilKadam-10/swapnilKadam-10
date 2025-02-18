@@ -41,5 +41,5 @@ Here are a few of the projects I’m working on:
 
 Thanks for visiting my profile! Feel free to check out my repositories and connect with me if you'd like to collaborate!
 
-![Profile Visits](https://hits.dwyl.com/swapnilKadam-10/swapnilKadam-10.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=swapnilKadam-10&color=blue)
 
