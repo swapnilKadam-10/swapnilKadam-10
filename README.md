@@ -35,7 +35,7 @@ Here are a few of the projects I’m working on:
 
 - **Email**: [ Email](kadamswapnil4259@gmail.com )
 - **LinkedIn**: [ LinkedIn Profile](https://www.linkedin.com/in/swapnil-kadam-a829472a4/)
-- **Portfolio**:[ Portfolio Website](https://swapnilk-portfolio.netlify.app)
+- **Portfolio**:[ Portfolio Website](https://swapnilk-portfolio.vercel.app/)
 
 ---
 
